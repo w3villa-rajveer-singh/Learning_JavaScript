@@ -4,7 +4,7 @@
 
 const student = {
     name: "Rajveer",
-    age: "23",
+    age: 23,
     grade: "A"
 };
 
